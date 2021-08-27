@@ -4,7 +4,9 @@ Informática, Matemática e Estatística.
 
 ## CAPÍTULO I: DA DENOMINAÇÃO E FINALIDADES
 
-#### Art. 1.º A Secretaria Acadêmica da Computação, Informática, Matemática e Estatística
+#### Art. 1.º
+
+A Secretaria Acadêmica da Computação, Informática, Matemática e Estatística
 (SACIM), entidade representativa dos alunos regularmente matriculados nos cursos de
 graduação oferecidos pelo Instituto de Ciências Matemáticas e de Computação, do
 Campus de São Carlos da Universidade de São Paulo, fundada em 22/05/2002, é uma
@@ -13,7 +15,9 @@ presente Estatuto Social, com sede no Instituto de Ciências Matemáticas e de
 Computação, localizado na Avenida Trabalhador Saocarlense, 400, Campus
 Universitário e com foro na cidade de São Carlos, estado de São Paulo.
 
-#### Art. 2.º A SACIM, ressalvando o direito de gozo de sua plena autonomia, reconhece
+#### Art. 2.º
+
+A SACIM, ressalvando o direito de gozo de sua plena autonomia, reconhece
 como entidades legítimas de representação dos estudantes, nos seus respectivos níveis
 de atuação:
 
@@ -29,13 +33,19 @@ dos estudantes no Campus São Carlos da Universidade de São Paulo.
 § 2.º A SACIM reconhece a Assembleia Geral do CAASO como fórum máximo de
 decisão, sendo assim subordinada a esta.
 
-#### Art. 3.º A SACIM é um órgão independente de partidos políticos, crenças religiosas,
+#### Art. 3.º
+
+A SACIM é um órgão independente de partidos políticos, crenças religiosas,
 raças, sexo, orientações filosóficas e ideológicas.
 
-#### Art. 4.º A SACIM não poderá participar de qualquer atividade partidária, nem criar
+#### Art. 4.º
+
+A SACIM não poderá participar de qualquer atividade partidária, nem criar
 distinções ou preferências de qualquer espécie entre seus Integrantes.
 
-#### Art. 5.º São principais finalidades da SACIM:
+#### Art. 5.º
+
+São principais finalidades da SACIM:
 a) congregar e representar os alunos do ICMC, Campus São Carlos da
 Universidade de São Paulo, defendendo seus interesses gerais;
 
@@ -67,7 +77,9 @@ pela defesa das riquezas nacionais.
 Parágrafo único. Não serão excluídos quaisquer outros fins idôneos que venham a
 ser propostos em Assembleia Geral.
 
-#### Art. 6.º A SACIM procurará trabalhar pelo cumprimento dos seguintes princípios da
+#### Art. 6.º
+
+A SACIM procurará trabalhar pelo cumprimento dos seguintes princípios da
 ética dos estudantes:
 
 I- estrita probidade na execução de todos os trabalhos e provas escolares;
@@ -81,7 +93,9 @@ IV- submissão dos interesses individuais aos da coletividade.
 
 ## CAPÍTULO II: DOS INTEGRANTES, SEUS DIREITOS E DEVERES
 
-#### Art. 7.º Será considerado Integrante da SACIM qualquer aluno regularmente
+#### Art. 7.º
+
+Será considerado Integrante da SACIM qualquer aluno regularmente
 matriculado nos cursos de graduação, oferecidos pelo Instituto de Ciências Matemáticas
 e de Computação, do Campus de São Carlos da Universidade de São Paulo, a menos
 que o aluno requeira sua não filiação junto à SACIM.
@@ -149,7 +163,9 @@ Mattiazzi, brasileiro, solteiro, nascido aos 09/06/1982, Cédula de Identidade R
 
 ## CAPÍTULO III: DOS ÓRGÃOS DIRETORES
 
-#### Art. 8.º São órgãos diretores da SACIM, na ordem decrescente de autoridade:
+#### Art. 8.º
+
+São órgãos diretores da SACIM, na ordem decrescente de autoridade:
 
 a) Assembleia Geral;
 
@@ -162,7 +178,9 @@ Conselho Fiscal.
 
 ## CAPÍTULO IV: DA ASSEMBLÉIA GERAL
 
-#### Art. 9.º A Assembleia Geral, constituída pelos Integrantes em pleno gozo dos seus
+#### Art. 9.º
+
+A Assembleia Geral, constituída pelos Integrantes em pleno gozo dos seus
 direitos, é o órgão soberano da SACIM, respeitados os dispositivos deste Estatuto.
 Parágrafo único. A Assembleia Geral pode ser:
 
@@ -170,7 +188,9 @@ a) Ordinária;
 
 b) Extraordinária;
 
-#### Art. 10. As Assembleias Gerais Ordinárias são em número de 2 (duas) por gestão.
+#### Art. 10.
+
+As Assembleias Gerais Ordinárias são em número de 2 (duas) por gestão.
 
 § 1.º A primeira será realizada no primeiro mês do ano letivo, para a recepção dos
 novos acadêmicos do Instituto de Ciências Matemáticas e de Computação do
@@ -183,7 +203,9 @@ finda e para a transmissão de cargos àquela cujo mandato inicia.
 § 3.º Essas Assembleias serão convocadas no mínimo com 4 (quatro) dias de
 antecedência, funcionando com qualquer número de Integrantes.
 
-#### Art. 11. As Assembleias Gerais Extraordinárias realizar-se-ão:
+#### Art. 11.
+
+As Assembleias Gerais Extraordinárias realizar-se-ão:
 
 a) sempre que forem julgadas necessárias pelo Presidente ou pela Diretoria;
 
@@ -224,22 +246,30 @@ Assembleia Geral.
 
 c) A votação será secreta e a decisão revelada no final da segunda sessão.
 
-#### Art. 12. As Assembleias Gerais serão convocadas pelo Presidente em exercício da
+#### Art. 12.
+
+As Assembleias Gerais serão convocadas pelo Presidente em exercício da
 SACIM.
 
 Parágrafo único. O aviso de convocação de Assembleias Gerais, com a inserção
 obrigatória da Ordem do dia, será afixado no quadro de avisos da SACIM.
 
-#### Art. 13. As Assembleias Gerais só poderão discutir e deliberar sobre assunto para o qual
+#### Art. 13.
+
+As Assembleias Gerais só poderão discutir e deliberar sobre assunto para o qual
 foram convocadas.
 
-#### Art. 14. Os trabalhos das Assembleias Gerais serão dirigidos pelo Presidente em
+#### Art. 14.
+
+Os trabalhos das Assembleias Gerais serão dirigidos pelo Presidente em
 exercício da SACIM, ou substituto legal, auxiliado por dois secretários, devendo, um
 deles, ser o Secretário Geral da SACIM.
 
 Parágrafo único. Os componentes da mesa não poderão participar dos debates.
 
-#### Art. 15. Os trabalhos das Assembleias Gerais serão divididos em duas partes:
+#### Art. 15.
+
+Os trabalhos das Assembleias Gerais serão divididos em duas partes:
 expediente e ordem do dia.
 
 § 1.º O expediente constará de:
@@ -251,7 +281,9 @@ b) leitura dos papéis enviados à mesa.
 § 2.º A ordem do dia constará de discussão e votação dos assuntos da Assembleia
 Geral.
 
-#### Art. 16. As decisões da Assembleia Geral serão tomadas por maioria de votos,
+#### Art. 16.
+
+As decisões da Assembleia Geral serão tomadas por maioria de votos,
 abstendo-se de votar os componentes da mesa e, em caso de empate, a Assembleia
 decide por novos encaminhamentos.
 
@@ -259,17 +291,23 @@ Parágrafo único. Os nãos Integrantes poderão comparecer e tomar parte nas
 discussões que se travarem em Assembleia Geral, desde que tenham anuência da
 mesma; nunca, porém, terão direito a voto.
 
-#### Art. 17. A Assembleia Geral deverá votar o Estatuto da SACIM e reformá-lo quando
+#### Art. 17.
+
+A Assembleia Geral deverá votar o Estatuto da SACIM e reformá-lo quando
 necessário, em reunião especialmente convocada para este fim, conforme disposto no
 Artigo 11, alíneas “a” e “b”, parágrafos 1º ao 6º e Artigo 59, parágrafos 1º e 2º.
 
-#### Art. 18. As Assembleias Gerais serão reguladas pelo seu regimento próprio.
+#### Art. 18.
+
+As Assembleias Gerais serão reguladas pelo seu regimento próprio.
 Parágrafo único. O regimento da Assembleia Geral só poderá ser aprovado ou
 modificado numa Assembleia Geral especialmente convocada para este fim.
 
 ## CAPÍTULO V: DA DIRETORIA
 
-#### Art. 19. A Diretoria da SACIM será constituída das seguintes ramificações:
+#### Art. 19.
+
+A Diretoria da SACIM será constituída das seguintes ramificações:
 
 Presidência
 - Presidência geral
@@ -290,10 +328,14 @@ Diretoria de Esportes
 - Intercomp
 - Eventos
 
-#### Art. 20. Os membros da Diretoria só poderão ser exonerados de seus cargos por decisão
+#### Art. 20.
+
+Os membros da Diretoria só poderão ser exonerados de seus cargos por decisão
 da Assembleia Geral, respeitando o artigo 31.
 
-#### Art. 21. Compete à Diretoria:
+#### Art. 21.
+
+Compete à Diretoria:
 
 a) dirigir e administrar a SACIM;
 
@@ -331,7 +373,9 @@ n) Trabalhar, juntamente com todos os Representantes Discentes do ICMC,
 orientando e cobrando presença e atas de todas as reuniões dos diversos
 colegiados do Instituto.
 
-#### Art. 22. à Presidência compete:
+#### Art. 22.
+
+à Presidência compete:
 
 a) representar a SACIM, ativa e passiva, judicial e extrajudicialmente;
 
@@ -394,7 +438,9 @@ w) arrecadar as rendas, subvenções e doações feitas à SACIM;
 
 x) efetuar as despesas autorizadas pela Diretoria;
 
-#### Art. 23. À Diretoria Institucional compete:
+#### Art. 23.
+
+À Diretoria Institucional compete:
 
 a) promover reuniões sociais, encontros culturais e colóquios;
 
@@ -432,7 +478,9 @@ cursos;
 l) promover discussões e avaliações dos cursos e currículos dos Departamentos de
 Ensino do ICMC;
 
-#### Art. 24. À Diretoria de Atividades Esportivas compete;
+#### Art. 24.
+
+À Diretoria de Atividades Esportivas compete;
 
 a) os Diretores de Atividades Esportivas deverão trabalhar junto com a Associação
 Atlética Acadêmica Campus de São Carlos – USP (AAACSC-USP);
@@ -444,7 +492,9 @@ c) organizar, juntamente com a AAACSC-USP, jogos universitários;
 
 d) organizar eventos e torneios esportivos que promovam a união dos Integrantes;e) participar das reuniões da Diretoria da AAACSC-USP;
 
-#### Art. 25. À Diretoria de Eventos compete;
+#### Art. 25.
+
+À Diretoria de Eventos compete;
 
 a) Promover eventos de integração entre os alunos do ICMC;
 
@@ -458,7 +508,9 @@ realizando;
 
 e) Auxiliar a Presidência a levantar fundos para Secretaria Acadêmica;
 
-#### Art. 26. À Diretoria de Comunicação compete:
+#### Art. 26.
+
+À Diretoria de Comunicação compete:
 a) a responsabilidade por toda a imprensa e propaganda da SACIM;
 
 b) promover aos estudantes e ao público em geral as atividades do Campus,
@@ -473,16 +525,22 @@ necessário as informações da mesma;
 
 ## CAPÍTULO VI: DO CONSELHO FISCAL
 
-#### Art. 27. As atividades do conselho fiscal serão de competência do Conselho Fiscal do
+#### Art. 27.
+
+As atividades do conselho fiscal serão de competência do Conselho Fiscal do
 CAASO;
 
-#### Art. 28. No caso do Conselho Fiscal do CAASO não existir no ano em questão ou não
+#### Art. 28.
+
+No caso do Conselho Fiscal do CAASO não existir no ano em questão ou não
 puder atuar nas devidas funções necessárias, um conselho fiscal da SACIM deverá ser
 eleito em eleições extraordinárias, este Conselho Fiscal deverá ser constituído por 2
 (dois) membros eleitos pelos Integrantes da SACIM, os membros da atual Diretoria não
 poderá fazer parte do Conselho Fiscal.
 
-#### Art. 29. Compete ao Conselho Fiscal:
+#### Art. 29.
+
+Compete ao Conselho Fiscal:
 a) acompanhar e fiscalizar a gestão administrativa e financeira da SACIM;
 
 b) dar parecer sobre os relatórios que deverão ser exigidos dos diversos setores
@@ -502,7 +560,9 @@ para os Diretores.
 
 ## CAPÍTULO VII: DAS SUBSTITUIÇÕES
 
-#### Art. 30. Em caso de ausência ou impedimento, as substituições de cargo serão feitas da
+#### Art. 30.
+
+Em caso de ausência ou impedimento, as substituições de cargo serão feitas da
 seguinte maneira:
 
 a) a Presidência será substituído por membros da Diretoria Institucional, membros
@@ -513,7 +573,9 @@ nesta linha;
 Parágrafo único. Em caso de impedimento, estas substituições prevalecerão até a
 posse do Integrantes eleitos para as Diretorias vaga.
 
-#### Art. 31. O Membro da Diretoria que renunciar, ou não comparecer, sem justificativa, a 3
+#### Art. 31.
+
+O Membro da Diretoria que renunciar, ou não comparecer, sem justificativa, a 3
 (três) reuniões consecutivas da Diretoria, ou ainda ser considerado ineficiente no
 exercício de suas funções, ratificado por assembleia geral, será substituído em eleições
 suplementares por outro Integrante da SACIM, indicado pela Diretoria, a ser
@@ -527,14 +589,18 @@ sido convocados, a não ser que apresentem justificativas válidas.
 § 2.º As justificativas de falta serão julgadas pelo Conselho Fiscal “ad referendum”
 da Diretoria.
 
-#### Art. 32. As substituições de Diretores da SACIM, mediante indicação do substituto pela
+#### Art. 32.
+
+As substituições de Diretores da SACIM, mediante indicação do substituto pela
 Diretoria da SACIM e subsequente aprovação em plebiscito ou em Assembleia Geral
 Extraordinária, ocorrerão até no máximo para 5 (cinco) cargos, respeitando os termos do
 artigo 31. Ultrapassado esse limite, a Diretoria poderá indicar o substituto, mas deverá
 constar na cédula do plebiscito se a atual Diretoria se mantém ou se deverão ser abertas
 novas inscrições para eleição de nova Diretoria.
 
-#### Art. 33. Em caso de demissão coletiva da Diretoria, comunicada pela Presidência em
+#### Art. 33.
+
+Em caso de demissão coletiva da Diretoria, comunicada pela Presidência em
 Assembleia Geral, para este fim convocada, a Presidência em exercício deverá marcar
 novas eleições, devendo ser observados os requisitos constantes no 
 
@@ -545,7 +611,9 @@ demissionária deverá prestar contas de seu exercício à Assembleia Geral.
 
 ## CAPÍTULO VIII: DAS REUNIÕES E DA DIRETORIA
 
-#### Art. 34. A Diretoria da SACIM, no desempenho de suas funções, reunir-se-á,
+#### Art. 34.
+
+A Diretoria da SACIM, no desempenho de suas funções, reunir-se-á,
 obrigatoriamente, em sessões ordinárias mensais e em sessões extraordinárias, quando
 convocadas por três dos seus membros.
 
@@ -558,30 +626,42 @@ mutantis”.
 § 3.º As decisões serão tomadas por maioria simples e, em caso de empate, cabe à
 Presidência o voto de qualidade.
 
-#### Art. 35. A Diretoria só poderá funcionar legalmente com a presença mínima de 6 (seis)
+#### Art. 35.
+
+A Diretoria só poderá funcionar legalmente com a presença mínima de 6 (seis)
 de seus membros.
 
 Parágrafo único. Para as reuniões da Diretoria haverá um livro de presença no qual
 deverão assinar os Diretores e demais pessoas presentes.
 
-#### Art. 36. Os Integrantes da SACIM poderão participar das reuniões da Diretoria e tomar
+#### Art. 36.
+
+Os Integrantes da SACIM poderão participar das reuniões da Diretoria e tomar
 parte nas discussões que nela se travarem, nunca, porém, terão direito a voto.
 
-#### Art. 37. Qualquer medida urgente, independente de convocação de reunião de Diretoria,
+#### Art. 37.
+
+Qualquer medida urgente, independente de convocação de reunião de Diretoria,
 poderá ser tomada, desde que 6 (seis) dos membros da Diretoria assinem documento
 comprovante.
 
 ## CAPÍTULO IX: DAS SESSÕES SOLENES
 
-#### Art. 38. Às sessões solenes poderão comparecer todos os Integrantes e pessoas
+#### Art. 38.
+
+Às sessões solenes poderão comparecer todos os Integrantes e pessoas
 convidadas.
 
-#### Art. 39. As sessões têm por fim comemorações festivas, recepções de quaisquer atos
+#### Art. 39.
+
+As sessões têm por fim comemorações festivas, recepções de quaisquer atos
 solenes.
 
 ## CAPÍTULO X: DAS ELEIÇÕES
 
-#### Art. 40. As eleições para substituição dos cargos eletivos da SACIM serão regulares e
+#### Art. 40.
+
+As eleições para substituição dos cargos eletivos da SACIM serão regulares e
 suplementares.
 
 § 1.º As eleições regulares, para preenchimento dos cargos da Diretoria, irão ser
@@ -601,7 +681,9 @@ antecedência, relativamente à reunião de Diretoria, na qual se dará a escolh
 § 5.º As eleições serão convocadas pela Presidência em exercício com antecedência
 mínima de 15 (quinze) dias, ao prazo final de inscrições.
 
-#### Art. 41. São cargos eletivos:
+#### Art. 41.
+
+São cargos eletivos:
 
 a) os da Diretoria;
 
@@ -614,7 +696,9 @@ b) os do Conselho Fiscal
 § 3.º Desejando candidatar-se a outro cargo eletivo, em eleições suplementares, o
 membro da Diretoria deverá pedir demissão do cargo que ocupa.
 
-#### Art. 42. A eleição, para preenchimento dos cargos da Diretoria e Conselho Fiscal da
+#### Art. 42.
+
+A eleição, para preenchimento dos cargos da Diretoria e Conselho Fiscal da
 SACIM, será feita por chapas, a serem inscritas até uma semana antes do dia do pleito.
 
 § 1.º As chapas deverão apresentar 16 (dezesseis) elementos, distribuídos pelos
@@ -627,7 +711,9 @@ através de seu(s) representante(s), relacionando os candidatos e seus respectiv
 cargos, bem como o nome da chapa. O Presidência assinará os termos de abertura e
 encerramento da eleição.
 
-#### Art. 43. Os cargos da Diretoria está sujeitos às seguintes restrições:
+#### Art. 43.
+
+Os cargos da Diretoria está sujeitos às seguintes restrições:
 
 a) não poderá candidatar-se a qualquer cargo, o Integrante que na época do pleito
 estiver cursando o último ano de seu curso e não comprovar, mediante
@@ -638,11 +724,15 @@ este até o final da gestão a que se candidata.
 b) Não poderá candidatar-se o Integrante que ferir qualquer disposição do presente
 estatuto.
 
-#### Art. 44. Quanto ao voto, deverá ser direto e secreto, não sendo permitido voto por
+#### Art. 44.
+
+Quanto ao voto, deverá ser direto e secreto, não sendo permitido voto por
 aclamação nem voto por procuração.§ 1.º Para eleição dos cargos do artigo 19, haverá uma cédula única na qual deverão
 constar os nomes das chapas concorrentes.
 
-#### Art. 45. Durante o pleito deverá ser observado o seguinte:
+#### Art. 45.
+
+Durante o pleito deverá ser observado o seguinte:
 
 a) haverá uma mesa eleitoral, presidida por algum diretor da SACIM, auxiliado por
 mesários, Integrantes da SACIM, representando as chapas concorrentes.
@@ -656,7 +746,9 @@ Parágrafo único. Quando qualquer Integrante verificar irregularidade na marcha
 eleições, deverá apresentar protesto, por escrito, à Diretoria até um prazo máximo de
 48 (quarenta e oito) horas após o encerramento da apuração.
 
-#### Art. 46. Terminadas as eleições, iniciar-se-ão as apurações por meio de uma mesa
+#### Art. 46.
+
+Terminadas as eleições, iniciar-se-ão as apurações por meio de uma mesa
 apuradora, presidida pela Presidência da SACIM em exercício, auxiliado por 2 (dois) ou
 mais escrutinadores, Integrantes, representando as chapas concorrentes.
 
@@ -681,20 +773,26 @@ transgressão aos dispositivos deste capitulo, será anulado.
 42, § 3.º, o resultado das eleições, assinando o termo de encerramento o Presidente
 da Mesa e os escrutinadores.
 
-#### Art. 47. Logo após o término da apuração, o Presidente da Mesa proclamará
+#### Art. 47.
+
+Logo após o término da apuração, o Presidente da Mesa proclamará
 oficialmente o resultado.
 
 § 1.º Será considerada eleita a chapa que obtiver a maioria dos votos. Enquanto
 houver empate realizar-se-ão novas eleições, obedecendo os prazos normais.
 
-#### Art. 48. Se acaso, até a data de encerramento das inscrições para cargos eletivos, não
+#### Art. 48.
+
+Se acaso, até a data de encerramento das inscrições para cargos eletivos, não
 houver candidatos suficientes para preencher todos os cargos, ou nenhuma chapa
 (Diretoria SACIM), as eleições serão adiadas “sine-die”, até que se preencham todos os
 cargos ou se apresente pelo menos uma chapa para a Diretoria SACIM.
 
 ## CAPÍTULO XI: DO RECONHECIMENTO E DA POSSE
 
-#### Art. 49. No máximo 5 (cinco) dias após a eleição, a Diretoria reunir-se-á para
+#### Art. 49.
+
+No máximo 5 (cinco) dias após a eleição, a Diretoria reunir-se-á para
 reconhecer os novos Diretores eleitos.
 
 § 1.° Sempre que se verificar a contestação dos resultados do pleito, a Diretoria
@@ -706,7 +804,9 @@ de 10 (dez) dias da data da anulação, mandará proceder nova eleição.
 § 3.° Em qualquer hipótese, a parte prejudicada poderá recorrer do ato da Diretoria,
 para a Assembleia Geral.
 
-#### Art. 50. A transmissão de cargos à nova Diretoria dar-se-á em Assembleia Geral
+#### Art. 50.
+
+A transmissão de cargos à nova Diretoria dar-se-á em Assembleia Geral
 Ordinária, conforme artigo 10, § 2.º, devendo ser lavrado, em livro próprio, um termo
 que deverá ser assinado pelos novos Diretores.
 Parágrafo único. A posse dos membros eleitos em eleições suplementares, para
@@ -715,7 +815,9 @@ extraordinária.
 
 ## CAPÍTULO XII: DOS CARGOS DE NOMEAÇÃO
 
-#### Art. 51. São cargos de nomeação:
+#### Art. 51.
+
+São cargos de nomeação:
 
 a) os cargos auxiliares da Diretoria, artigo 19;
 
@@ -731,10 +833,14 @@ diretoria que os nomeiam.
 
 ## CAPÍTULO XIII: DO PATRIMÔNIO SOCIAL, RECEITA E DESPESA
 
-#### Art. 52. Constituem o patrimônio da SACIM os bens móveis e imóveis que possua ou
+#### Art. 52.
+
+Constituem o patrimônio da SACIM os bens móveis e imóveis que possua ou
 venha a possuir e os saldos líquidos apurados no fim de cada gestão.
 
-#### Art. 53. A receita da SACIM resulta:
+#### Art. 53.
+
+A receita da SACIM resulta:
 
 a) dos donativos, legados ou subvenções que receber;
 
@@ -746,24 +852,36 @@ manutenção e desenvolvimento dos objetivos sociais da SACIM.
 § 2.º As receitas e despesas realizadas pela SACIM serão registradas em livros
 revestidos das formalidades legais, de maneira que assegurem a respectiva exatidão.
 
-#### Art. 54. A venda dos bens patrimoniais só poderá ser feita com o consentimento de 2/3
+#### Art. 54.
+
+A venda dos bens patrimoniais só poderá ser feita com o consentimento de 2/3
 (dois terços) dos Integrantes presentes à Assembleia Geral para esse fim convocada,
 exigindo “quorum” mínimo de 1/2 (metade) dos Integrantes efetivos.
 
-#### Art. 55. A aquisição de bens patrimoniais ficará sob a responsabilidade da Diretoria da
+#### Art. 55.
+
+A aquisição de bens patrimoniais ficará sob a responsabilidade da Diretoria da
 SACIM.
 
-#### Art. 56. A escrituração do patrimônio social deverá ser feita em um livro especial.
+#### Art. 56.
 
-#### Art. 57. Resolvida a dissolução da SACIM, o ativo, depois da liquidação do passivo
+A escrituração do patrimônio social deverá ser feita em um livro especial.
+
+#### Art. 57.
+
+Resolvida a dissolução da SACIM, o ativo, depois da liquidação do passivo
 social, será transferido para uma instituição filantrópica escolhida em Assembleia Geral.
 
 ## CAPÍTULO XIV: DISPOSIÇÕES GERAIS
 
-#### Art. 58. Os Integrantes não responderão pelas obrigações que, intencionalmente ou não,
+#### Art. 58.
+
+Os Integrantes não responderão pelas obrigações que, intencionalmente ou não,
 a Diretoria venha a contrair em nome da SACIM.
 
-#### Art. 59. Qualquer reforma parcial ou total deste Estatuto somente poderá ser feita
+#### Art. 59.
+
+Qualquer reforma parcial ou total deste Estatuto somente poderá ser feita
 através de uma Comissão Estatuinte, sendo permitida somente uma por gestão.
 
 § 1.º A Comissão Estatuinte será composta por Delegados, eleitos pelos Integrantes.
@@ -783,31 +901,47 @@ a) O regimento do plebiscito será elaborado pela própria Comissão Estatuinte,
 desde que esteja de acordo com este Estatuto. O quorum mínimo para a
 validação deste plebiscito será 1/5 (um quinto) dos Integrantes.
 
-#### Art. 60. A SACIM zelará para que, no recinto do Instituto de Ciências Matemáticas e de
+#### Art. 60.
+
+A SACIM zelará para que, no recinto do Instituto de Ciências Matemáticas e de
 Computação do Campus São Carlos da Universidade de São Paulo, ou fora dele, não
 haja o menor abuso à integridade física ou moral dos acadêmicos.
 
-#### Art. 61. É considerado símbolo oficial da SACIM a esfera espiralada estilizada,
+#### Art. 61.
+
+É considerado símbolo oficial da SACIM a esfera espiralada estilizada,
 registrada em cartório pela SACIM.
 
-#### Art. 62. É considerada mascote oficial da SACIM a barata estilizada, registrada em
+#### Art. 62.
+
+É considerada mascote oficial da SACIM a barata estilizada, registrada em
 cartório pela SACIM.
 
-#### Art. 63. São consideradas cores oficiais da SACIM: o Amarelo, o Preto e o Azul;
+#### Art. 63.
 
-#### Art. 64. Os casos omissos serão resolvidos pela Diretoria, podendo sempre recorrer à
+São consideradas cores oficiais da SACIM: o Amarelo, o Preto e o Azul;
+
+#### Art. 64.
+
+Os casos omissos serão resolvidos pela Diretoria, podendo sempre recorrer à
 Assembleia Geral.
 
-#### Art. 65. A composição da Diretoria da SACIM poderá ser feita pelo sistema de
+#### Art. 65.
+
+A composição da Diretoria da SACIM poderá ser feita pelo sistema de
 proporcionalidade ou rodízio entre os Integrantes, caso nenhuma Diretoria tenha sido
 eleita.
 
 ## CAPÍTULO XV: DISPOSIÇÕES TRANSITÓRIAS
 
-#### Art. 66. Este Estatuto entra em vigor na data de sua aprovação, revogando-se as
+#### Art. 66.
+
+Este Estatuto entra em vigor na data de sua aprovação, revogando-se as
 disposições contrárias.
 
-#### Art. 67. A Comissão Provisória, criada a partir da Portaria 003/2002, do CAASO,
+#### Art. 67.
+
+A Comissão Provisória, criada a partir da Portaria 003/2002, do CAASO,
 imediatamente após a aprovação do presente Estatuto, em Assembleia Geral, deverá
 providenciar seu registro em Cartório, sua impressão e distribuição aos Integrantes da
 SACIM.
