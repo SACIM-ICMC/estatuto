@@ -119,7 +119,11 @@ regimento vigente e normas estabelecidas pela Diretoria;
 
 e) pedir vistoria dos livros sociais e administrativos da SACIM;
 
-f) colaborar nas publicações da SACIM.§ 2.º São deveres dos Integrantes:
+f) colaborar nas publicações da SACIM;
+
+g) férias remuneradas.
+
+§ 2.º São deveres dos Integrantes:
 
 a) observar os dispositivos deste Estatuto, cumprir e acatar as decisões das
 Assembleias Gerais, da Diretoria e dos seus representantes legais e cooperar
