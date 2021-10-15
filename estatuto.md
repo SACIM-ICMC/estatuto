@@ -98,7 +98,8 @@ IV- submissão dos interesses individuais aos da coletividade.
 Será considerado Integrante da SACIM qualquer aluno regularmente
 matriculado nos cursos de graduação, oferecidos pelo Instituto de Ciências Matemáticas
 e de Computação, do Campus de São Carlos da Universidade de São Paulo, a menos
-que o aluno requeira sua não filiação junto à SACIM.
+que o aluno requeira sua não filiação junto à SACIM ou qualquer aluno ue comprove a sua 
+conclusão da graduação no instituto em questão.
 
 § 1.º São direitos dos Integrantes:
 
